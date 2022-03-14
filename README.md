@@ -17,8 +17,8 @@ As always, start off by forking and cloning this repository from GitHub. Open th
 
 - Required Features are required and focus on the key skills for the week
 - Stretch Goals are __*optional*__!
-  - These will stretch and challenge deeper understanding of the material.
-  - Note that these may require additional research beyond the provided content. 
+- These will stretch and challenge deeper understanding of the material.
+
 
 ### Files Provided
 
